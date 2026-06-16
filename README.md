@@ -1,10 +1,9 @@
 # FinSight Dashboard
 
 💰 **FinSight: Finance Analysis Dashboard**
-
 An interactive Power BI dashboard delivering real-time insights into transactions, customers, and risk for a finance business.
 
-## Short Description / Purpose
+## Short Description 
 A Power BI report analyzing 15K+ transactions worth ₹135.62M to track transaction trends, fees, tax, and customer behavior — built for finance analysts and business decision-makers to monitor performance and risk in real time.
 
 ## Tech Stack
@@ -22,7 +21,6 @@ Two linked CSV tables:
 Tables are joined on Customer ID, cleaned in Power Query, then loaded into the data model.
 
 ## Features / Highlights
-
 **Business Problem:** Finance teams need a real-time, consolidated view of transaction volume, value, and risk across customer segments — hard to track manually across thousands of daily transactions.
 
 **Goal:** A single dashboard to monitor transaction performance, fees/tax trends, and customer segment behavior, filterable by year, occupation, and category.
@@ -44,6 +42,8 @@ Tables are joined on Customer ID, cleaned in Power Query, then loaded into the d
 - Loan EMI and Transfer are the largest transaction types by amount (₹39.9M and ₹35.7M)
 - Transactions are fairly gender-balanced (51% male, 49% female)
 
-## Screenshots / Demos
-![FinSight Overview](Finance_Dashboard_2.png)
-![FinSight Transactions](Finance_Dashboard_1.png)
+## Screenshots 
+Show what the dashboard looks like.
+![Dashboard Preview](https://github.com/yashwadve/Finance_Dashboard/blob/main/Finance%20Dashboard%201.png)
+
+![Dashboard Preview](https://github.com/yashwadve/Finance_Dashboard/blob/main/Finance%20Dashboard%202.png)
